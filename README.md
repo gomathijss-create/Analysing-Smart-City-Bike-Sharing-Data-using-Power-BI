@@ -36,13 +36,12 @@ The main objectives of this project are:
 ## 🛠️ Tools & Technologies
 
 - **Visualization:**
-
+- 
   **Power BI**
   - Data modelling
   - DAX calculations
   - visualization and
   - Interactive dashboard creation.
-  
 - **Documentation:** MS-Word.
 
 ## 🧹 Data Cleaning & Preparation
